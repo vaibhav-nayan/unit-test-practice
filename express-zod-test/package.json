@@ -1,0 +1,24 @@
+{
+  "name": "express-zod-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "description": "",
+  "devDependencies": {
+    "@jest/globals": "^30.0.0-beta.3",
+    "@types/express": "^5.0.2",
+    "ts-jest": "^29.3.4"
+  },
+  "dependencies": {
+    "@types/supertest": "^6.0.3",
+    "express": "^5.1.0",
+    "supertest": "^7.1.1",
+    "zod": "^3.25.48"
+  }
+}
